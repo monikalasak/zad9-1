@@ -6,7 +6,7 @@ var x = prompt('Wprowadz liczbe'),
 		if (a>0 && h>0){
 			return a*h/2;
 		} else {
-			console.log('Nieprawidłowe dane!')
+			return 'Nieprawidłowe dane!'
 		}
 	}
 	console.log(getTriangleArea(x, y));
