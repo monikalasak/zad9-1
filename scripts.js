@@ -1,7 +1,7 @@
 // scripts.js
 getTriangleArea 
-var a = pompt('Wprowadz liczbe'),
-	h = pompt ('Wprowadz liczbe');
+var a = prompt('Wprowadz liczbe'),
+	h = prompt ('Wprowadz liczbe');
 
 	function getTriangleArea(a, h) {
 		if (true) { a && h > 0}
